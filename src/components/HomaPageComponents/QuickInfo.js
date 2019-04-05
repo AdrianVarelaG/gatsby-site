@@ -17,8 +17,8 @@ export default class QuickInfo extends Component {
             consectetur adipisicing elit. Eligendi non quis exercitationem culpa
             nesciunt nihil aut
           </p>
-          <Link to="/abaout/" style={{ textDecoration: "none" }}>
-            <SectionButton style={{ margin: "2rem auto" }}>Text</SectionButton>
+          <Link to="/about/" style={{ textDecoration: "none" }}>
+            <SectionButton style={{ margin: "2rem auto" }}>About</SectionButton>
           </Link>
         </QuickInfoWrapper>
       </Section>
